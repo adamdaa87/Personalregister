@@ -2,8 +2,6 @@
 
 Personalregister is a simple .NET console application for registering one employee at a time by entering a name and wage, then printing the saved information in the terminal.
 
-YouTube video: https://youtu.be/5ObPs6_c80U
-
 ## What the application does
 
 - Waits for user input to start a new employee registration
